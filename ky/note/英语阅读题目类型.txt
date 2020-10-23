@@ -7,7 +7,9 @@ A report consistently brought back by visitors to the US is how friendly, courte
 　　[A] rude taxi drivers are rarely seen in the US
 　　[B] small-minded officials deserve a serious comment
 　　[C] Canadians are not so friendly as their neighbors  
-    [D] most Americans are ready to offer help
+    [D] most Americans are ready to offer help、
+中间提出一个反例来 体现 （干扰）主题
+
 例2:
 In this world of change and complexity, the need for information is of greatest importance. Those people who have accurate, reliable up-to-date information to solve the day-to-day problems, the critical problems of their business, social and family life, will survive and succeed. "Knowledge is power" may well be the truest saying and access to information may be the most critical requirement of all people.
 思考题：
@@ -16,6 +18,14 @@ In this world of change and complexity, the need for information is of greatest 
 [B] people should make the best use of the information accessible
 [C] we should realize the importance of accumulating information
 [D] it is of vital importance to acquire needed information efficiently
+例3:通过一个 例子表达段落 主旨
+If that happens, passionate consumers would try to persuade others to boycott products, putting the reputation of the target company at risk. In such a case, the company‘s response may not be sufficiently quick or thoughtful, and the learning curve has been steep. Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign, which included efforts to engage with consumers directly on sites such as Twitter and the social-news site Digg. 
+34. We can learn from the example of Toyota Motor that the company should __________.
+
+[A] respond effectively to hijacked media 
+[B] persuade customers into boycotting products  
+[C] cooperate with supportive consumers 
+[D] take advantage of hijacked media 
 
 二. 查找生词的含义。
 例1:
@@ -26,3 +36,13 @@ What does “windfall” probably mean？
 (C) the unexpected return
 (D) the inflating balloon 
 注意里面的while转折点，找和前面描述相反的含义。
+三. 段落中某一情况的原因
+例1.
+Today no such severe lack exists as that ordered by Frederick. Nevertheless, some children are still backward in speaking. Most often the reason for this is that the mother is insensitive to the signals of the infant, whose brain is programmed to learn language rapidly. If these sensitive periods are neglected, the ideal time for acquiring skills passes and they might never be learned so easily again. A bird learns to sing and to fly rapidly at the right time, but the process is slow and hard once the critical stage has passed.
+思考题：
+1. The reason some children are backward in speaking is most probably that ________.
+[A] they are incapable of learning language rapidly
+[B] they are exposed to too much language at once
+[C] their mothers respond inadequately to their attempts to speak
+[D] their mothers are not intelligent enough to help them
+直接去对应的地方找答案。
