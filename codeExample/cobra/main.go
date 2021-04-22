@@ -2,8 +2,7 @@ package main
 
 import (
 	// my cmd path
-
-	"git.ezbuy.me/ezbuy/zzztextzmd/cobra/cmd"
+	"{my cmd path}/cmd"
 )
 
 //  The main.go file serves one purpose:initializing Cobra.
