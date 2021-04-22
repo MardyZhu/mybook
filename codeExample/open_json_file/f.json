@@ -1,0 +1,11 @@
+{
+	"customer": {
+		"customerId": 12345,
+		"catalog": "SG",
+		"nicknames": [
+            "kiki",
+            "uiui"
+        ]
+	}
+}
+
